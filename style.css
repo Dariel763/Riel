@@ -1,0 +1,99 @@
+body{
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.756), rgba(255, 255, 255, 0.208))
+    ,url(Gambar/florian-wehde-WBGjg0DsO_g-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1680px;
+    overflow-x: hidden;
+    
+    
+}
+.float-end{
+    height: 400px;
+    width: auto;
+    margin-top: 100px;
+    margin-right: 100px;
+    border-radius: 50px;
+    border: Solid 5px orange;
+}
+.nav-link{
+    font-size: 110%;
+}
+.col h2{
+    margin-top: 100px;
+    margin-left: 185px;
+}
+.col-4{
+    text-align: justify;
+    border: 3px solid orange;
+    border-left: none;
+    border-right: none;
+    padding-top: 17px;
+    height: 300px;
+}
+.nama{
+    float: right;
+    margin-top: 520px;
+    margin-right: -280px;
+    border: Solid 5px orange;
+    padding: 10px 10px;
+    background-color: rgba(255, 255, 255, 0.756);
+    width: 250px;
+    text-align: center;
+    letter-spacing: 5px;
+    border-radius: 10px;
+}
+.kartu{
+    margin-left: 180px;
+    border: solid 4px orange;
+    margin-top: 20px;
+    
+}
+.list-group-item{
+    height: 75px;
+    padding-top: 25px;
+    background:  rgba(255, 255, 255, 0.6);
+}
+
+.card{
+    border: solid 3px orange;
+    background:  rgba(255, 255, 255, 0.7);
+}
+.kartu2{
+    float: right;
+    margin-right: 700px;
+    margin-top: -158px;
+    border: solid 4px orange;
+}
+.kartu3{
+    float: right;
+    margin-right: 350px;
+    margin-top: -158px;
+    border: solid 4px orange;
+}
+.kartu3 a{
+    text-decoration: none;
+    text-align: center;
+    margin-left: 90px;
+    color: black;
+    font-weight: bold;
+}
+.kartu2 a{
+    text-decoration: none;
+    text-align: center;
+    margin-left: 90px;
+    color: black;
+    font-weight: bold;
+}
+a:hover{
+    color: Blue;
+}
+footer{
+    margin-top: 60px;
+    height: 50px;
+    margin-bottom: 0px;
+    
+}
+footer p{
+    padding-top: 10px;
+}
